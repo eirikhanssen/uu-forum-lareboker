@@ -1,6 +1,13 @@
 # uu-forum-lareboker
 UU - Lærebøker - SNK186. Ressursdeling av relevante notater, lenker og kodeeksempler
 ## Lenkesamling
+### Bildebeskrivelser
+* Diagramcenter
+   * http://diagramcenter.org
+   * Image guidelines for epub 3 http://diagramcenter.org/59-image-guidelines-for-epub-3.html
+   * Making images accessible (med eksempelbok) http://diagramcenter.org/making-images-accessible.html
+* Rapport fra MTM i Sverige om bildebeskrivelser (jan 2019) https://www.mtm.se/om-oss/press/pressmeddelanden/rapport-om-bildbeskrivningar/
+
 ### Kompatibilitet
 * HTML elements - Screen reader compatibility https://www.powermapper.com/tests/screen-readers/elements/
 * Web Accessibility Tutorials https://www.w3.org/WAI/tutorials/images/complex/
