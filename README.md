@@ -15,6 +15,9 @@ UU - Lærebøker - SNK186. Ressursdeling av relevante notater, lenker og kodeeks
 * Extended Description Analysis (https://www.w3.org/2015/08/extended-description-analysis.html
 
 ### EPUB3
+* Veileder for Epub3 produksjon som NLB og nordiske blindebiblioteker benytter: http://nlbdev.github.io/nordic-epub3-dtbook-migrator/resources/2014-31_-_EPUB_3_Requirements_2015-1_rev-01.pdf
+
+#### Epub 3 Working Group
 * WHY SPECS CHANGE: EPUB 3.2 AND THE EVOLUTION OF THE EBOOK ECOSYSTEM https://www.w3.org/blog/2018/04/why-specs-change-epub-3-2-and-the-evolution-of-the-ebook-ecosystem/
 * EPUB 3 COMMUNITY GROUP https://www.w3.org/publishing/groups/epub3-cg/
 * ￼EPUB 3.2 Final Community Group Report 21 May 2019 https://w3c.github.io/publ-epub-revision/epub32/spec/epub-spec.html
