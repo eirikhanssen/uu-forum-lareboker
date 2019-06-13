@@ -1,6 +1,10 @@
 # uu-forum-lareboker
 UU - Lærebøker - SNK186. Ressursdeling av relevante notater, lenker og kodeeksempler
 ## Lenkesamling
+### Github Markdown Tutorial
+Github bruker markdown (som denne filen er skrevet i) for å lage html-visning. Her kan du se hvordan du bruker Github markdown:
+* Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+
 ### Bildebeskrivelser
 * Diagramcenter
    * http://diagramcenter.org
