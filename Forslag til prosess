@@ -1,0 +1,30 @@
+Vi er enige om at vi trenger flere varianter av bildebeskrivelser, og på et tidligere møte snakket vi om at vi kanskje trenger 4(?) typer. 
+Da kan vi stille oss to spørsmål:
+
+1.	Er det mulig å definere x antall typer bildebeskrivelser, og samtidig være helt tydelig på hva hver av dem skal dekke? 
+    Da tenker vi generelt for alle typer bøker/innhold.
+
+Hvis ikke:
+
+2.	Kan vi i hvert enkelt prosjekt stå fritt til å definere hvor mange og hvilke typer bildebeskrivelser vi trenger? 
+    Typene må dokumentere nøye.
+
+Teknisk sett kan begge løses greit i en database. Det er kun snakk om hvor mange felter vi trenger.
+
+
+Når det kommer til sluttproduktet (EPUB), så må vi dokumentere:
+
+Elementer og attributter:	    Tag i EPUB:	      Kommentar:
+Bildefil		                                    Fysisk filnavn
+Alttag		
+Bildetittel		
+Bildetekst		
+Bildenote		
+Bildekilde		
+Bildebeskrivelse 1	                            Definisjon
+Bildebeskrivelse 2		                          Definisjon
+Bildebeskrivelse 3		                          Definisjon
+Bildebeskrivelse …		                          Definisjon
+
+
+Widar / 14.6.2019
