@@ -18,6 +18,12 @@ Github bruker markdown (som denne filen er skrevet i) for å lage html-visning. 
   * Making images accessible (med eksempelbok) <http://diagramcenter.org/making-images-accessible.html>
 * Rapport fra MTM i Sverige om bildebeskrivelser (jan 2019) <https://www.mtm.se/om-oss/press/pressmeddelanden/rapport-om-bildbeskrivningar/>
 
+### Matematikk
+
+* MathML guidelines for NLB: [201912-mathml-requirements-nlb-production.pdf](https://raw.githubusercontent.com/eirikhanssen/uu-forum-lareboker/master/files/201912-mathml-requirements-nlb-production.pdf)
+* Mathematical Markup Language (MathML) Version 3.0 2nd Edition: <https://www.w3.org/TR/MathML3/>
+* Resultat av testing (går delvis inn på bildebeskrivelser og annen tilgjengelighet også): [Accessibility Testing MathML.xlsx](https://raw.githubusercontent.com/eirikhanssen/uu-forum-lareboker/master/files/Accessibility%20Testing%20MathML.xlsx)
+
 ### Kompatibilitet
 
 * HTML elements - Screen reader compatibility <https://www.powermapper.com/tests/screen-readers/elements/>
